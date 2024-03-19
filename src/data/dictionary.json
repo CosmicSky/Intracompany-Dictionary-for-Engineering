@@ -1,0 +1,137 @@
+{
+    "dictionaryEntries": [
+        {
+            "id": "1",
+            "term": "NCR Enterprise Platform",
+            "synonyms": [
+                "NEP"
+            ],
+            "definition": "The NCR Enterprise Platform (NEP) is a key strategy in meeting NCR’s Aspirational Software Model and transforming the organization to build high-value, customer-focused, enterprise solutions.",
+            "documentationUrl": "https://confluence.ncr.com/display/NEP/Home"
+        },
+        {
+            "id": "2",
+            "term": "Transaction Data Management",
+            "synonyms": [
+                "TDM"
+            ],
+            "definition": "The Transaction Data Management (TDM) is a repository of transaction logs (TLog). This repository allows many business opportunities and is a backbone of these solutions - E-Receipt, Pulse, Central Reports, Central Returns and Advanced Analytics. ",
+            "documentationUrl": "https://confluence.ncr.com/display/ROP/Transaction+Data+Management"
+        },
+        {
+            "id": "3",
+            "term": "hover",
+            "synonyms": [
+                "Hover"
+            ],
+            "definition": "Test for hover"
+        },
+        {
+            "id": "4",
+            "term": "Application Identifier",
+            "synonyms": [
+                "AID"
+            ],
+            "definition": "Application Identifiers in EMVInitialization.xml file provide a way for us to identify what kind of card was inserted into the reader - Discover, Mastercard, Visa, etc. If we cannot find the corresponding AID, we look for alternative methods to validate the card."
+        },
+        {
+            "id": "5",
+            "term": "EMV",
+            "synonyms": [
+                "Europay, Mastercard, Visa",
+                "Chip"
+            ],
+            "definition": "EMV is a payment method based upon a technical standard for smart payment cards and for payment terminals and automated teller machines which can accept them. EMV originally stood for \"Europay, Mastercard, and Visa\", the three companies which created the standard."
+        },
+        {
+            "id": "6",
+            "term": "Accelerated",
+            "synonyms": [
+                "XLR", "Emerald"
+            ],
+            "definition": "New cross-platform responsive POS system",
+            "documentationUrl": "https://confluence.ncr.com/display/EME/Emerald+Atlanta+XLR"
+        },
+        {
+            "id": "7",
+            "term": "Advanced Marketing System",
+            "synonyms": [
+                "AMS"
+            ],
+            "definition": "Advanced Marketing System - a Promotion engine that can handle huge number of promotions/offers and has a simple UI available for merchants",
+            "documentationUrl": "https://confluence.ncr.com/display/RetailHostedApps/Advanced+Marketing+System+%28AMS%29+Integration"
+        },
+        {
+            "id": "8",
+            "term": "Association of Retail Technology Standards",
+            "synonyms": [
+                "ARTS"
+            ],
+            "definition": "Association of Retail Technology Standards (created by NRF)",
+            "documentationUrl": "https://confluence.ncr.com/display/raanana/New+Joiners?preview=%2F109876778%2F110965765%2FR10+Academy+ARTS+Standard+in+R10.pptx"
+        },
+        {
+            "id": "9",
+            "term": "Behavior Driven Development",
+            "synonyms": [
+                "BDD"
+            ],
+            "definition": "Behaviour Driven Development (BDD) is a synthesis and refinement of practices stemming from Test Driven Development (TDD) and Acceptance Test Driven Development (ATDD).",
+            "documentationUrl": "https://confluence.ncr.com/display/sitcoe/Behavior+Driven+Development"
+        },
+        {
+            "id": "10",
+            "term": "Backend For Frontend",
+            "synonyms": [
+                "BFF"
+            ],
+            "definition": "A Backend for Frontend is a unique type of shim that fills a design gap that is inherent in the API process. A BFF is, in simple terms, a layer between the user experience and the resources it calls on.",
+            "documentationUrl": "https://nordicapis.com/building-a-backend-for-frontend-shim-for-your-microservices/"
+        },
+        {
+            "id": "11",
+            "term": "Business Logic",
+            "synonyms": [
+                "BL"
+            ],
+            "definition": "Business logic refers to the underlying processes within a program that carry out the operations between a company’s servers and the user interface with which that company's customers interact. Business logic is more properly thought of as the code that defines the database schema and the processes to be run, and contains the specific calculations or commands needed to carry out those processes.",
+            "documentationUrl": "https://www.techopedia.com/definition/27382/business-logic"
+        },
+        {
+            "id": "12",
+            "term": "Business Rules Management",
+            "synonyms": [
+                "BRM"
+            ],
+            "definition": "BRM are the business rules set in the Emerald office which intervene a sale during the transaction.  When a RTI request matches all the condition set in the office, a response with BRM will be returned.",
+            "documentationUrl": "https://confluence.ncr.com/display/EME/Business+Rule+Management"
+        },
+        {
+            "id": "13",
+            "term": "Business Service Platform",
+            "synonyms": [
+                "BSP"
+            ],
+            "definition": "Business Service Platform (previously known as ODSP, R1, or Retail One)",
+            "documentationUrl": "https://ugahacks.ncrcloud.com/docs/business-services-platform"
+        },
+        {
+            "id": "14",
+            "term": "Central Configuration Manager",
+            "synonyms": [
+                "CCM"
+            ],
+            "definition": "The Emerald Central Configuration Manager is used to maintain all configurations required for the NCR Emeraldsolution.",
+            "documentationUrl": "https://confluence.ncr.com/display/PDI/Functional+Highlights+1.6.2?preview=%2F489335964%2F489335977%2FNCR+Emerald+CCM++Functional+Highlights+Version+1.6.2.pdf"
+        },
+        {
+            "id": "15",
+            "term": "Customer Data Management",
+            "synonyms": [
+                "CDM"
+            ],
+            "definition": "Customer Data Management",
+            "documentationUrl": "https://confluence.ncr.com/display/CXM/Customer+data+management+module"
+        }
+    ]
+}
